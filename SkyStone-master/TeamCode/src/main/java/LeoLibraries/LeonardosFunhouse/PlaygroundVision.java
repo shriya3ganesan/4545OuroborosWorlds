@@ -19,6 +19,5 @@ public class PlaygroundVision extends LinearOpMode {
         waitForStart();
 
         vision.senseRed(this);
-
     }
 }
